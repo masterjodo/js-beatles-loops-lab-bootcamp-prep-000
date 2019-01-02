@@ -23,4 +23,5 @@ function iLoveTheBeatles(number) {
     ++number;
   }
   while (n < 15)
+  return emptyArray;
 }
